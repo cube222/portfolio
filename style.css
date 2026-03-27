@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+}
+
+header {
+  height: 160px;
+  background-color: pink;
+  background-image: url(logo.png);
+}
+
+h1 {
+  margin: 0;
+  font-size: 22px;
+  text-align: center;
+  line-height: 160px;
+}
